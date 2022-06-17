@@ -1,0 +1,5 @@
+C:\Users\Bea Vitkaus\source\repos\WebsiteStatusApp\WebsiteStatus\obj\Release\net5.0\WebsiteStatus.csproj.AssemblyReference.cache
+C:\Users\Bea Vitkaus\source\repos\WebsiteStatusApp\WebsiteStatus\obj\Release\net5.0\WebsiteStatus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bea Vitkaus\source\repos\WebsiteStatusApp\WebsiteStatus\obj\Release\net5.0\WebsiteStatus.AssemblyInfoInputs.cache
+C:\Users\Bea Vitkaus\source\repos\WebsiteStatusApp\WebsiteStatus\obj\Release\net5.0\WebsiteStatus.AssemblyInfo.cs
+C:\Users\Bea Vitkaus\source\repos\WebsiteStatusApp\WebsiteStatus\obj\Release\net5.0\WebsiteStatus.csproj.CoreCompileInputs.cache
